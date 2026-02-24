@@ -6,7 +6,7 @@ tags:
 ---
 Date: 2026-02-23, Monday, 02:38 PM
 
-File Tags: [[question]]
+File Tags: [[questions]]
 
 The name is clickbaity. But the real question is can you really live your life alone?
 
