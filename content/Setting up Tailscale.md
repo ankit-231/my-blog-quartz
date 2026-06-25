@@ -99,6 +99,6 @@ http://100.101.102.103:8000
 
 Now you can open your laptop's tailscale ip address in phone's browser with port configured in Django's server and Django's page should open in your phone.
 
-Open 100.101.102.103:8000 on phone's chrome.
+Open `100.101.102.103:8000` (your tailscale ip and port that is used in Django's server) on phone's chrome.
 
 It works.
