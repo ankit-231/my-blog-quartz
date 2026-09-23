@@ -16,7 +16,15 @@ Quartz is a set of tools that helps you publish your [digital garden](https://jz
   </a>
 </p>
 
+## Preview notes locally
+
+```sh
+npx quartz build --serve
+```
+
 ## Syncing Notes
+
+NOTE: First do `nvm use` to use the correct node version. The version is defined in `.nvmrc`, so no need to specify in the command `nvm use`.
 
 ```shell
 npx quartz sync
